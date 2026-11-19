@@ -1,0 +1,14 @@
+C:\Users\Muhammad Ibrahim\source\repos\C# Basics Session02\C# Basics Session02\bin\Debug\net10.0\C# Basics Session02.exe
+C:\Users\Muhammad Ibrahim\source\repos\C# Basics Session02\C# Basics Session02\bin\Debug\net10.0\C# Basics Session02.deps.json
+C:\Users\Muhammad Ibrahim\source\repos\C# Basics Session02\C# Basics Session02\bin\Debug\net10.0\C# Basics Session02.runtimeconfig.json
+C:\Users\Muhammad Ibrahim\source\repos\C# Basics Session02\C# Basics Session02\bin\Debug\net10.0\C# Basics Session02.dll
+C:\Users\Muhammad Ibrahim\source\repos\C# Basics Session02\C# Basics Session02\bin\Debug\net10.0\C# Basics Session02.pdb
+C:\Users\Muhammad Ibrahim\source\repos\C# Basics Session02\C# Basics Session02\obj\Debug\net10.0\C# Basics Session02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Ibrahim\source\repos\C# Basics Session02\C# Basics Session02\obj\Debug\net10.0\C# Basics Session02.AssemblyInfoInputs.cache
+C:\Users\Muhammad Ibrahim\source\repos\C# Basics Session02\C# Basics Session02\obj\Debug\net10.0\C# Basics Session02.AssemblyInfo.cs
+C:\Users\Muhammad Ibrahim\source\repos\C# Basics Session02\C# Basics Session02\obj\Debug\net10.0\C# Basics Session02.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Ibrahim\source\repos\C# Basics Session02\C# Basics Session02\obj\Debug\net10.0\C# Basics Session02.dll
+C:\Users\Muhammad Ibrahim\source\repos\C# Basics Session02\C# Basics Session02\obj\Debug\net10.0\refint\C# Basics Session02.dll
+C:\Users\Muhammad Ibrahim\source\repos\C# Basics Session02\C# Basics Session02\obj\Debug\net10.0\C# Basics Session02.pdb
+C:\Users\Muhammad Ibrahim\source\repos\C# Basics Session02\C# Basics Session02\obj\Debug\net10.0\C# Basics Session02.genruntimeconfig.cache
+C:\Users\Muhammad Ibrahim\source\repos\C# Basics Session02\C# Basics Session02\obj\Debug\net10.0\ref\C# Basics Session02.dll
